@@ -1,0 +1,15 @@
+# This repository hosts distribution metadata and compiled packages only.
+*.cs
+*.pdb
+*.mdb
+*.db
+*.sqlite
+*.sqlite3
+*.key
+*.pem
+*.pfx
+START_HERE.html
+*解除キー*.html
+Library/
+Temp/
+Logs/

@@ -1,0 +1,57 @@
+{
+  "name": "アセットノート / Asset Notebook",
+  "id": "com.horicraft.asset-catalog.vpm",
+  "author": "HoriCraft",
+  "url": "https://horicraft.github.io/asset-catalog-vpm/index.json",
+  "packages": {
+    "com.horicraft.booth-library-unity": {
+      "versions": {
+        "1.0.0-candidate.3": {
+          "name": "com.horicraft.booth-library-unity",
+          "displayName": "HoriCraft Asset Catalog",
+          "version": "1.0.0-candidate.3",
+          "unity": "2022.3",
+          "license": "SEE LICENSE.md",
+          "description": "A paid, offline-activated unofficial Unity Editor extension by HoriCraft that connects to BOOTH Library Manager to browse products and link imported assets.",
+          "author": {
+            "name": "HoriCraft",
+            "email": "h.sorevolu@gmail.com"
+          },
+          "vpmDependencies": {},
+          "url": "https://horicraft.github.io/asset-catalog-vpm/packages/com.horicraft.booth-library-unity-1.0.0-candidate.3.zip",
+          "zipSHA256": "32a1147d48aa51c16c7254c2b97e760528bd9e2d70f77e55ab3dc93bee5c2c83"
+        },
+        "1.0.0-candidate.4": {
+          "name": "com.horicraft.booth-library-unity",
+          "displayName": "HoriCraft Asset Catalog",
+          "version": "1.0.0-candidate.4",
+          "unity": "2022.3",
+          "license": "SEE LICENSE.md",
+          "description": "A paid, offline-activated unofficial Unity Editor extension by HoriCraft that connects to BOOTH Library Manager to browse products and link imported assets.",
+          "author": {
+            "name": "HoriCraft",
+            "email": "h.sorevolu@gmail.com"
+          },
+          "vpmDependencies": {},
+          "url": "https://horicraft.github.io/asset-catalog-vpm/packages/com.horicraft.booth-library-unity-1.0.0-candidate.4.zip",
+          "zipSHA256": "bcdd5872921b90a8a320d6ed5525fd4152a0a0cc2d0b75c2a4820ac16aa32e7a"
+        },
+        "1.0.0-candidate.5": {
+          "name": "com.horicraft.booth-library-unity",
+          "displayName": "HoriCraft Asset Catalog",
+          "version": "1.0.0-candidate.5",
+          "unity": "2022.3",
+          "license": "SEE LICENSE.md",
+          "description": "A paid, offline-activated unofficial Unity Editor extension by HoriCraft that connects to BOOTH Library Manager to browse products and link imported assets.",
+          "author": {
+            "name": "HoriCraft",
+            "email": "h.sorevolu@gmail.com"
+          },
+          "vpmDependencies": {},
+          "url": "https://horicraft.github.io/asset-catalog-vpm/packages/com.horicraft.booth-library-unity-1.0.0-candidate.5.zip",
+          "zipSHA256": "9928639949b86f77f65b7bb98cf7de30776cf147502b486ffbddbddac71f9c59"
+        }
+      }
+    }
+  }
+}
