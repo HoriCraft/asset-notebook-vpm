@@ -2,18 +2,17 @@
 
 VPM distribution for Asset Notebook by HoriCraft, formerly HoriCraft Asset Catalog.
 
-This public repository contains compiled packages, public distribution metadata and the landing page only. Product source, unlock keys, buyer-only files, databases, purchased assets and private records must never be committed here.
+This repository distributes compiled packages, public metadata and documentation. Product source, unlock keys, buyer-only files, databases, purchased assets and private records must never be committed here.
 
-## URLs and compatibility
+- Main website: https://horicraft.github.io/asset-notebook-vpm/
+- Canonical VCC / ALCOM feed: https://horicraft.github.io/asset-catalog-vpm/index.json
+- Version 1.0.0 terms: https://horicraft.github.io/asset-notebook-vpm/terms/1.0.0.html
+- Version 1.0.0 terms (TXT): https://horicraft.github.io/asset-notebook-vpm/terms/1.0.0.txt
 
-- New product website: https://horicraft.github.io/asset-notebook-vpm/
-- Canonical VCC / ALCOM listing: https://horicraft.github.io/asset-catalog-vpm/index.json
-- The previous repository remains an active compatibility distribution endpoint. Existing users do not need to remove or re-add it.
-- Listing ID remains `com.horicraft.asset-catalog.vpm`; package ID remains `com.horicraft.booth-library-unity`.
-- Both distribution sites must serve the same listing snapshot. The canonical listing URL and historical ZIP URLs stay unchanged. Do not rely on a GitHub repository redirect to redirect a Pages URL.
+The stable version is 1.0.0. Open it in Unity from `HoriCraft > Asset Notebook`. Stable versions do not require enabling prerelease display. Package functions require a purchaser activation key. Package availability does not announce BOOTH sales opening.
 
-candidate.3 / .4 / .5 are immutable historical packages with the previous display name. This transition changes the listing/website branding only and does not publish a new binary. The currently released candidate.5 still opens from `HoriCraft > Asset Catalog` in Unity. A reviewed future package will carry the new Unity display name.
+Listing ID remains `com.horicraft.asset-catalog.vpm` and package ID remains `com.horicraft.booth-library-unity`. Existing users do not need to re-register the repository. Historical candidate.3/.4/.5/.6 ZIPs and version objects remain unchanged. Historical packages retain their own metadata and license terms.
 
-Product functions require an activation key. Prerelease availability does not indicate that BOOTH sales have started.
+The new and compatibility sites distribute the same site snapshot. The old canonical feed and historical download URLs remain active. Do not rename or remove the compatibility repository, or rely on Pages redirects. No cross-repository secrets are required.
 
-Validation and publication staging: [TESTING.md](TESTING.md).
+Validation: [TESTING.md](TESTING.md). The versioned public terms text is byte-identical to the corresponding package's LICENSE.md; its HTML renders that same text.
