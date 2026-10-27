@@ -50,6 +50,21 @@
           "vpmDependencies": {},
           "url": "https://horicraft.github.io/asset-catalog-vpm/packages/com.horicraft.booth-library-unity-1.0.0-candidate.5.zip",
           "zipSHA256": "9928639949b86f77f65b7bb98cf7de30776cf147502b486ffbddbddac71f9c59"
+        },
+        "1.0.0-candidate.6": {
+          "name": "com.horicraft.booth-library-unity",
+          "displayName": "アセットノート / Asset Notebook",
+          "version": "1.0.0-candidate.6",
+          "unity": "2022.3",
+          "license": "SEE LICENSE.md",
+          "description": "A paid, offline-activated unofficial Unity Editor extension by HoriCraft that connects to BOOTH Library Manager to browse products and link imported assets.",
+          "author": {
+            "name": "HoriCraft",
+            "email": "h.sorevolu@gmail.com"
+          },
+          "vpmDependencies": {},
+          "url": "https://horicraft.github.io/asset-catalog-vpm/packages/com.horicraft.booth-library-unity-1.0.0-candidate.6.zip",
+          "zipSHA256": "0661832cb3798a193d017e646bcdb2f977c54f099dd4975bee6e438f1ac1caaf"
         }
       }
     }
