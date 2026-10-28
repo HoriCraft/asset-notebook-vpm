@@ -9,7 +9,7 @@ This repository distributes compiled packages, public metadata and documentation
 - Version 1.0.0 terms: https://horicraft.github.io/asset-notebook-vpm/terms/1.0.0.html
 - Version 1.0.0 terms (TXT): https://horicraft.github.io/asset-notebook-vpm/terms/1.0.0.txt
 
-The stable version is 1.0.0. Open it in Unity from `HoriCraft > Asset Notebook`. Stable versions do not require enabling prerelease display. Package functions require a purchaser activation key. Package availability does not announce BOOTH sales opening.
+The stable version is 1.0.1. Open it in Unity from `HoriCraft > Asset Notebook`. Stable versions do not require enabling prerelease display. Package functions require a purchaser activation key. Package availability does not announce BOOTH sales opening.
 
 Listing ID remains `com.horicraft.asset-catalog.vpm` and package ID remains `com.horicraft.booth-library-unity`. Existing users do not need to re-register the repository. Historical candidate.3/.4/.5/.6 ZIPs and version objects remain unchanged. Historical packages retain their own metadata and license terms.
 
